@@ -1,0 +1,6 @@
+module Pods_mg_network {
+  umbrella header "Pods-mg_network-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_mg_network_mg_networkTests {
+  umbrella header "Pods-mg_network-mg_networkTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
